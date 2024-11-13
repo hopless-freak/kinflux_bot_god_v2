@@ -5,10 +5,10 @@ let pp = './kinfluxbot.jpg'
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850) 
 let lkr = `❀° ┄──•••───╮
-      𝐊𝐈𝐍𝐅𝐋𝐔𝐗 𝐁𝐎𝐓 𝙈𝙀𝙉𝙐  
+    𝐁𝐎𝐓 𝙈𝙀𝙉𝙐  
 ╰───•••──┄ °❀    
-bot created by kinflux digital
-┌─⊷ *KINFLUX BOT*
+bot implemented by kaze
+┌─⊷ *kaze BOT*
 ▢ .blocklist
 ▢ .info
 ▢ .owner
@@ -18,7 +18,7 @@ bot created by kinflux digital
 ▢ .audios
 ▢ .ping
 ▢ .runtime
-└───────────
+└──^_____^───
 
 ┌─⊷ *GAMES*
 ▢ .dado
@@ -175,19 +175,6 @@ bot created by kinflux digital
 ▢ .setcmd <txt>
 └───────────
 
-┌─⊷ *NSFW +18*
-▢ .xwaifu (ⓓ)
-▢ .xneko (ⓓ)
-▢ .blowjob (ⓓ)
-▢ .ass (ⓓ)
-▢ .boobs (ⓓ)
-▢ .lesbian (ⓓ)
-▢ .pussy (ⓓ)
-▢ .pack (ⓓ)
-▢ .chut (ⓓ)
-▢ .gand (ⓓ)
-└───────────
-
 ┌─⊷ *OWNER*
 ▢ .expired <days>
 ▢ .addprem <@tag>
@@ -206,7 +193,7 @@ bot created by kinflux digital
 ▢ .unbanchat
 ▢ .unban @user
 ▢ .update
-group link  https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28
+group link  https://chat.whatsapp.com/FZClc6aPadO2bmOkA6HOrt
 └───────────
 
 ┌─⊷ *ADVANCED*
@@ -214,7 +201,7 @@ group link  https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28
 ▢ =>
 ▢ $
 └───────────  
-  kinflux digital
+  kaze x sora
 ┗━━━ʕ•㉨•ʔ━━━┛`
 conn.sendFile(m.chat, pp, 'perfil.jpg', lkr, m, false, { mentions: [who] })
 m.react(done)
